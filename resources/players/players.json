@@ -1,1 +1,79 @@
-
+{
+  "npcs": [
+    {
+      "name": "Thorngrim Stoneforge",
+      "race": "Dwarf",
+      "class": "Cleric",
+      "level": 5,
+      "alignment": "Lawful Good",
+      "stats": {
+        "strength": 16,
+        "dexterity": 10,
+        "constitution": 18,
+        "intelligence": 10,
+        "wisdom": 18,
+        "charisma": 8
+      },
+      "equipment": [
+        {
+          "name": "Mace",
+          "description": "A heavy blunt weapon used for bashing."
+        },
+        {
+          "name": "Scale Mail",
+          "description": "Armor made of interlocking metal scales."
+        },
+        {
+          "name": "Healer's Kit",
+          "description": "A collection of bandages, salves, and other medical supplies used for healing."
+        }
+      ],
+      "spells": [
+        {
+          "name": "Cure Wounds",
+          "description": "Heals a target's injuries."
+        },
+        {
+          "name": "Bless",
+          "description": "Grants allies a bonus to attack rolls and saving throws."
+        },
+        {
+          "name": "Protection from Evil and Good",
+          "description": "Grants a target protection against certain types of creatures."
+        }
+      ],
+      "description": "Thorngrim Stoneforge is a dwarf cleric with a deep love for his god and a fierce sense of justice. He is always ready to lend a healing hand to those in need, and will not hesitate to use his mace to defend his allies. Despite his gruff exterior, he is deeply loyal and protective of his friends."
+    },
+    {
+      "name": "Griswald",
+      "race": "Half-Elf",
+      "class": "Rogue",
+      "level": 3,
+      "alignment": "Chaotic Neutral",
+      "stats": {
+        "strength": 10,
+        "dexterity": 18,
+        "constitution": 14,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 16
+      },
+      "equipment": [
+        {
+          "name": "Shortsword",
+          "description": "A small, easily concealable sword used for close combat."
+        },
+        {
+          "name": "Leather Armor",
+          "description": "Flexible armor made from cured animal hides."
+        },
+        {
+          "name": "Thieves' Tools",
+          "description": "A set of lockpicks and other tools used for breaking and entering."
+        }
+      ],
+      "spells": [],
+      "description": "Griswald is a half-elf rogue with quick hands and a silver tongue. He is always looking for his next big score, and is not above bending the rules to get it. Despite his shady reputation, he is fiercely loyal to his friends and will not hesitate to use his skills to help them in a pinch."
+    }
+  ]
+}
