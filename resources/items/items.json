@@ -1,0 +1,24 @@
+{
+  "magic_items": [
+    {
+      "name": "Ring of Invisibility",
+      "type": "Ring",
+      "rarity": "Rare",
+      "description": "While wearing this ring, the wearer can turn invisible at will. The effect lasts for up to 1 hour per day, divided into increments of the wearer's choosing.",
+      "properties": [
+        "While invisible, the wearer is immune to damage from non-magical weapons.",
+        "The wearer cannot attack or cast spells while invisible."
+      ]
+    },
+    {
+      "name": "Sword of Life Stealing",
+      "type": "Sword",
+      "rarity": "Very Rare",
+      "description": "This black-bladed longsword has a silver hilt and a glowing red gem set into the pommel. Whenever the wielder scores a critical hit, the sword steals 1d6 hit points from the target.",
+      "properties": [
+        "The sword glows dimly in the presence of undead creatures.",
+        "The sword grants the wielder temporary hit points equal to the amount of hit points stolen."
+      ]
+    }
+  ]
+}
